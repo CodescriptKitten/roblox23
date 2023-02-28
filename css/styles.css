@@ -34,6 +34,8 @@ body {
 
 header {
     color: #010D00;
+    padding: 2em;
+    text-align: center;
 }
 
 h1 {
@@ -50,7 +52,7 @@ p {
 }
 
 blockquote {
-
+    margin: 2em;
 }
 
 img {
@@ -62,33 +64,32 @@ table {
 }
 
 nav {
-    background-image: linear-gradient(#154001,#0D2601)
+    background-image: linear-gradient(#154001,#0D2601);
+    text-align: center;
 }
 
 nav ul{
     list-style-type: none;
-    display: inline-block;
-    text-align: center;
 }
 
 nav ul li{
-
+    text-align: center;
 }
 
 nav ul li a:link {
-
+    text-decoration: none;
 }
 
 nav ul li a:hover {
-    
+    text-decoration: none;
 }
 
 nav ul li a:active {
-    
+    text-decoration: none;
 }
 
 nav ul li a:visited {
-    
+    text-decoration: none;
 }
 
 #topNav {
@@ -101,7 +102,7 @@ nav ul li a:visited {
 
 footer {
     text-align: center;
-    color:#010D00;
+    color:#FDFEF6;
 }
 
 footer p {
