@@ -7,7 +7,7 @@ Colors
 #010D00 - Roblox Black
 #154001 - Roblox Green
 #0D2601 - Roblox Dark Green
-#595047 - Roblox Grey
+#22262F - Roblox Grey
 #FDFEF6 - Roblox White
 #D91E0D - Roblox Red
 
@@ -28,12 +28,12 @@ font-family: 'Rubik Mono One', sans-serif;
 }
 
 body {
-    background-color: #595047;
+    background-color: #22262F;
     color: #FDFEF6;
 }
 
 header {
-
+    color: #010D00;
 }
 
 h1 {
@@ -75,6 +75,22 @@ nav ul li{
 
 }
 
+nav ul li a:link {
+
+}
+
+nav ul li a:hover {
+    
+}
+
+nav ul li a:active {
+    
+}
+
+nav ul li a:visited {
+    
+}
+
 #topNav {
 
 }
@@ -85,6 +101,7 @@ nav ul li{
 
 footer {
     text-align: center;
+    color:#010D00;
 }
 
 footer p {
