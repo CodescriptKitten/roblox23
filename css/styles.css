@@ -1,0 +1,53 @@
+/* CSS DOCUMENT */
+
+/*
+
+Colors
+
+
+
+Fonts
+
+font-family: 'Bree Serif', serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'Rubik Mono One', sans-serif;
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Mukta:wght@200;400;700&family=Rubik+Mono+One&display=swap');
+
+*, *:active {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color:red;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+h2 {
+    font-family: 'Bree Serif', serif;
+}
+
+p {
+    font-family: 'Mukta', sans-serif;
+}
+
+blockquote {
+
+}
+
+img {
+
+}
+
+table {
+
+}
