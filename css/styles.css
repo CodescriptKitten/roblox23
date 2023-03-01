@@ -41,8 +41,8 @@ header {
 h1 {
     color:#FDFEF6;
     font-family: 'Rubik Mono One', sans-serif;
-    font-size: 1.2em;
-    -webkit-text-stroke-width: 2px;
+    font-size: 2em;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #D91E0D;
     text-shadow: -1px 1px 0 #D91E0D;
 }
@@ -80,6 +80,9 @@ nav ul{
 
 nav ul li{
     text-align: center;
+    display: inline-block;
+    padding: 1.5em;
+    font-size: 1.3em;
 }
 
 nav ul li a:link {
