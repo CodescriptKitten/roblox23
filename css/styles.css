@@ -53,7 +53,7 @@ h2 {
 
 p {
     font-family: 'Mukta', sans-serif;
-    font-size: 1.2em
+    font-size: 1.3em
 }
 
 blockquote {
@@ -65,6 +65,7 @@ img {
     width: 30%;
     height: 25%;
     border:#FDFEF6 solid;
+    margin: 0 1em;
 }
 
 table {
@@ -86,24 +87,40 @@ nav ul li{
     text-align: center;
     display: inline-block;
     padding: 1em 5em;
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-family: 'Rubik Mono One', sans-serif;
 }
 
 nav ul li a:link {
     text-decoration: none;
+    color:#FDFEF6;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #D91E0D;
+    text-shadow: -1px 1px 0 #D91E0D;
 }
 
 nav ul li a:hover {
     text-decoration: none;
+    color:#D91E0D;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #D91E0D;
+    text-shadow: -1px 1px 0 #D91E0D;
 }
 
 nav ul li a:active {
     text-decoration: none;
+    color:#D91E0D;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #FDFEF6;
+    text-shadow: -1px 1px 0 #FDFEF6;
 }
 
 nav ul li a:visited {
     text-decoration: none;
+    color:#D91E0D;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #FDFEF6;
+    text-shadow: -1px 1px 0 #FDFEF6
 }
 
 #topNav {
