@@ -69,7 +69,7 @@ img {
     width: 30%;
     height: 25%;
     border:#FDFEF6 solid;
-    margin: 0 1em;
+    margin: 0 1em 1em 1em;
 }
 
 .rightImg {
@@ -90,6 +90,7 @@ table tr {
 
 input {
     font-family: 'Mukta', sans-serif;
+    font-size: 1.5em;
 }
 
 nav {
