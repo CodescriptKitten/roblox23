@@ -56,6 +56,10 @@ p {
     font-size: 1.3em
 }
 
+main {
+    height: 500px;
+}
+
 blockquote {
     margin: 2em;
 }
@@ -66,6 +70,10 @@ img {
     height: 25%;
     border:#FDFEF6 solid;
     margin: 0 1em;
+}
+
+.rightImg {
+    float: right;
 }
 
 table {
