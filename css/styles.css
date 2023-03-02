@@ -77,7 +77,19 @@ img {
 }
 
 table {
+    font-family: 'Mukta', sans-serif;
+}
 
+table tr {
+    padding: 1em;
+}
+
+.btn {
+    border-radius: 3px;
+}
+
+input {
+    font-family: 'Mukta', sans-serif;
 }
 
 nav {
